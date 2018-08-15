@@ -1,5 +1,5 @@
 # Basic Tweaks
-This [Magisk](https://github.com/topjohnwu/Magisk) module makes your life easier by making some essential mods systemless. Download the latest release 
+This Magisk module makes your life easier by making some essential mods systemless. Download the latest release 
 [here](https://github.com/MrFlashGame/basic-tweaks/releases/download/1.0/system-tweaks.zip "Version 1.0").
 
 ## Features
@@ -9,9 +9,9 @@ This [Magisk](https://github.com/topjohnwu/Magisk) module makes your life easier
 - Default 1.1.1.1 DNS
 
 ## Credits
-- Steven Black (Hosts file)
-- crok (RAM management)
-- topjohnwu (Magisk)
+- Steven Black ([Hosts file](https://github.com/StevenBlack/hosts))
+- crok ([RAM management](https://github.com/crok/crokrammgmtfix))
+- topjohnwu ([Magisk](https://github.com/topjohnwu/Magisk))
 
 ## Changelog
 #### Version 1.0
