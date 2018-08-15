@@ -1,4 +1,4 @@
-# System Tweaks
+# Basic Tweaks
 This module makes your life easier by making some essential mods systemless.
 
 ## Features
