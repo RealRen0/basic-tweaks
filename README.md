@@ -1,5 +1,5 @@
 # Basic Tweaks
-This module makes your life easier by making some essential mods systemless. Download the latest release 
+This [Magisk](https://github.com/topjohnwu/Magisk) module makes your life easier by making some essential mods systemless. Download the latest release 
 [here](https://github.com/MrFlashGame/basic-tweaks/releases/download/1.0/system-tweaks.zip "Version 1.0").
 
 ## Features
