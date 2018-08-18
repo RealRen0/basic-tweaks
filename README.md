@@ -9,11 +9,13 @@ This Magisk module makes your life easier by making some essential mods systemle
 - Default 1.1.1.1 DNS
 
 ## Credits
-- Steven Black ([Hosts file](https://github.com/StevenBlack/hosts))
+- adblock.mahakala.is ([Hosts file](http://adblock.mahakala.is/))
 - crok ([RAM management](https://github.com/crok/crokrammgmtfix))
 - topjohnwu ([Magisk](https://github.com/topjohnwu/Magisk))
 
 ## Changelog
+#### Version 1.0.1
+- Switched from Unified hosts list to adblock.mahakala.is list.
 #### Version 1.0
 - Initial release 
 
