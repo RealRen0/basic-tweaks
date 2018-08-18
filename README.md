@@ -15,7 +15,7 @@ This Magisk module makes your life easier by making some essential mods systemle
 
 ## Changelog
 #### Version 1.0.1
-- Switched from Unified hosts list to adblock.mahakala.is list.
+- Switched from Unified hosts list to http://adblock.mahakala.is/ list.
 - Fixed potential Adblock breaking bug
 #### Version 1.0
 - Initial release 
