@@ -1,6 +1,6 @@
 id=basic-tweaks
 name=Basic Tweaks
-version=1.0
+version=1.0.1
 versionCode=1
 author=Nils Muehlberger
 description=This module makes your life easier by making some essential mods systemless.
