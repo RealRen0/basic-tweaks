@@ -1,6 +1,6 @@
 # Basic Tweaks
 This Magisk module makes your life easier by making some essential mods systemless. Download the latest release 
-[here](https://github.com/MrFlashGame/basic-tweaks/releases/download/1.0/system-tweaks.zip "Version 1.0").
+[here](https://github.com/MrFlashGame/basic-tweaks/releases/download/1.0.1/basic-tweaks-1.0.1.zip).
 
 ## Features
 - Built in AdBlock
