@@ -11,6 +11,7 @@ print_modname() {
 
 REPLACE="
 /system/etc/permissions/handheld_core_hardware.xml
+/system/bin/hosts
 "
 
 set_permissions() {
